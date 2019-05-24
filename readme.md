@@ -43,7 +43,7 @@ mvn clean package
 - Name the event as 'SimpleTest' without the ticks.
 - Enter the following text in the text box area below the Event name input box:
 
-```json
+``` json
 {
   "name": "testing name",
   "message": "testing message"
