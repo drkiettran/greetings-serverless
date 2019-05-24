@@ -57,10 +57,10 @@ mvn clean package
 
 ```
 {
-  "message": "Hello, 'testing name' from 169.254.36.197/1@169.254.36.197"
+  "message": "Hello, 'testing name' from xxx.xx.xx.xx/x@xx.xx.xx.xx"
 }
 ```
-
+ 
 ## Create a API gateway resource
 
 - On the landing page of the cisc-525-04-greetings lambda function, expand the Designer (default).
@@ -108,7 +108,8 @@ Accept: application/json
 
 ```
 {
-  "message": "Hello, 'testing name' from 169.254.36.197/1@169.254.36.197"
+  "name": "testing name",
+  "message": "testing message"
 }
 ```
 
