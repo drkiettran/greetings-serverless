@@ -123,5 +123,14 @@ Accept: application/json
 }
 ```
 
+## Deploying API
 
+Return to the AWS console.
+- Go to the API Gateway landing page.
+- Select the 'cisc-525-04-greetings-API'.
+- Select /cisc-525-04-greetings under the Resources column (middle).
+- Click on the Action dropdown list.
+- Select Deploy API.
+- Select 'default' from the dropdown menu.
+- Click on Deploy button.
  
